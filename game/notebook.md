@@ -8,10 +8,11 @@
 ## Weapons
 - [ ] Wooden Box
 - [ ] Iron Poker
-- [ ] Glass Bottle
+- [X] Glass Bottle
 
 ## Notes
 *The cellar is empty
- The Tailor is at the pond in the park*
+ The Tailorcat is at the pond in the park
+ The Glass Bottle is at the gymnasium in the school*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
